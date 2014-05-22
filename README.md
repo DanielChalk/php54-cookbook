@@ -24,7 +24,7 @@ Using a node json file
 
 ## Installing PHP packages
 
-The php_package definition uses the package definition but prefixes the package name with ```php54-php-``` to the package name.
+The php_package definition uses the package definition but prefixes the package name with ```php54-php-```.
 
 ```ruby
 php_package "cli" do 
